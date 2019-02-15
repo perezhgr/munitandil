@@ -1,0 +1,46 @@
+Listado  de infracciones deben salir 2 listados
+
+La fecha de levantamiento y la fecha del acta debe coincidir.
+
+preguntar en caso que se tenga más de un acta o preventivas.
+
+preguntar hasta cuando se debería modificar el acta.
+
+------------------------------------------------------
+
+Serie motor --> Nro Chasis / Cuadro --> OK
+
+Tipo 0 des --> el campo es nombre apellido debe ser no oblig. --> OK
+
+acta -- > nro de la calle , piso, depto 
+
+Localidad --> agregar vela --> OK
+
+DOMINIO --> MAYUS --> OK
+
+CAMBIAR CICLOMOTOR POR MOTOCICLETA --> OK
+
+
+articulos de infraccion:
+1 - 999 sin cambios   ord  varias (VISIBLE)
+
+eL 999 USARLO PARA LEY Y ORDENAZA.
+
+1000 - 4000 --> nuevos ingresos de codigos. 
+
+4000 - 4123 sin cambios ley (VISIBLE)
+
+
+dejar visibles codigos 2000,1103,2001,3016 (VISIBLE)
+
+EL RESTO DEJARLOS OCULTOS.
+
+creacion de codigos (art de infraccion)
+
+mostrar el ultimo disponible (de ley y de ordenanza)
+
+cargar el numero manual y tendria que indicar si es de ley o de ordenanza.
+agrandar ventana para el buscador.
+imprimir datos con acta
+
+
