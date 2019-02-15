@@ -2,9 +2,9 @@ Listado  de infracciones deben salir 2 listados
 
 La fecha de levantamiento y la fecha del acta debe coincidir.
 
-preguntar en caso que se tenga m·s de un acta o preventivas.
+preguntar en caso que se tenga m√°s de un acta o preventivas.
 
-preguntar hasta cuando se deberÌa modificar el acta.
+preguntar hasta cuando se deber√≠a modificar el acta.
 
 ------------------------------------------------------
 
@@ -43,4 +43,5 @@ cargar el numero manual y tendria que indicar si es de ley o de ordenanza.
 agrandar ventana para el buscador.
 imprimir datos con acta
 
+el nro de motor y cuadro es alfanumerico (ARREGLAR!!!!!!)
 
